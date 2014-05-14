@@ -1,0 +1,8 @@
+— Select a Genre —
+Action
+Animated
+Comedy
+Horror
+Romance
+Sci-fi
+Thriller
